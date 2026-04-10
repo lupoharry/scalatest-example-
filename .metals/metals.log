@@ -47,3 +47,17 @@ INFO: Unsupported notification method: $/setTrace
 2026.04.10 12:49:17 INFO  Shut down connection with build server.
 2026.04.10 12:49:17 INFO  Shut down connection with build server.
 2026.04.10 12:49:17 INFO  Exiting server
+2026.04.10 12:49:57 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\lupoh\Downloads\Repos\scalatest-example' for client Visual Studio Code 1.115.0.
+2026.04.10 12:49:57 INFO  Memory monitor started
+2026.04.10 12:49:58 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.10 12:49:58 INFO  Attempting to connect to the build server...
+2026.04.10 12:49:58 INFO  Found a Bloop server running
+2026.04.10 12:49:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lupoh\Downloads\Repos\scalatest-example\.metals\bsp.trace.json or C:\Users\lupoh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.04.10 12:49:58 INFO  Attempting to connect to the build server...
+2026.04.10 12:49:58 INFO  Found a Bloop server running
+2026.04.10 12:49:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lupoh\Downloads\Repos\scalatest-example\project\.metals\bsp.trace.json or C:\Users\lupoh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.04.10 12:49:59 INFO  time: Connected to build server in 0.53s
+2026.04.10 12:49:59 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.10 12:49:59 INFO  time: Imported build in 0.17s
+2026.04.10 12:50:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.10 12:50:12 INFO  time: indexed workspace in 12s
