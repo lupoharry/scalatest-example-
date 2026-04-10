@@ -40,3 +40,4 @@ INFO: Unsupported notification method: $/setTrace
 2026.04.10 12:44:57 INFO  Connected to Build server: Bloop v2.0.19
 2026.04.10 12:44:57 INFO  time: Imported build in 0.11s
 2026.04.10 12:45:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.10 12:45:20 INFO  time: indexed workspace in 23s
