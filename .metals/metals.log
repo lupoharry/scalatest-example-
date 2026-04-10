@@ -1,0 +1,42 @@
+2026.04.10 12:44:27 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\lupoh\Downloads\Repos\scalatest-example' for client Visual Studio Code 1.115.0.
+2026.04.10 12:44:27 INFO  Memory monitor started
+2026.04.10 12:44:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.10 12:44:33 INFO  running 'C:\Program Files\Microsoft\jdk-25.0.2.10-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\lupoh\AppData\Local\Temp\metals6405984165485898138\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2026.04.10 12:44:33 WARN  no build target for: C:\Users\lupoh\Downloads\Repos\scalatest-example\project\metals.sbt
+2026.04.10 12:44:33 INFO  no build target found for C:\Users\lupoh\Downloads\Repos\scalatest-example\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.10 12:44:33 WARN  no build target for: C:\Users\lupoh\Downloads\Repos\scalatest-example\project\project\metals.sbt
+2026.04.10 12:44:35 ERROR WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+2026.04.10 12:44:35 ERROR WARNING: sun.misc.Unsafe::arrayBaseOffset has been called by net.openhft.hashing.UnsafeAccess (file:/C:/Users/lupoh/.sbt/boot/scala-2.12.21/org.scala-sbt/sbt/1.12.9/zero-allocation-hashing-0.16.jar)
+2026.04.10 12:44:35 ERROR WARNING: Please consider reporting this to the maintainers of class net.openhft.hashing.UnsafeAccess
+2026.04.10 12:44:35 ERROR WARNING: sun.misc.Unsafe::arrayBaseOffset will be removed in a future release
+2026.04.10 12:44:35 ERROR WARNING: A restricted method in java.lang.System has been called
+2026.04.10 12:44:35 ERROR WARNING: java.lang.System::load has been called by com.sun.jna.Native in an unnamed module (file:/C:/Users/lupoh/.sbt/boot/scala-2.12.21/org.scala-sbt/sbt/1.12.9/jna-5.12.0.jar)
+2026.04.10 12:44:35 ERROR WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+2026.04.10 12:44:35 ERROR WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+2026.04.10 12:44:35 ERROR 
+2026.04.10 12:44:36 INFO  [info] welcome to sbt 1.12.9 (Microsoft Java 25.0.2)
+2026.04.10 12:44:38 INFO  no build target found for C:\Users\lupoh\Downloads\Repos\scalatest-example\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.10 12:44:41 INFO  [info] loading settings for project scalatest-example-build-build from metals.sbt...
+2026.04.10 12:44:42 INFO  [info] loading project definition from C:\Users\lupoh\Downloads\Repos\scalatest-example\project\project
+2026.04.10 12:44:45 INFO  [info] loading settings for project scalatest-example-build from metals.sbt...
+2026.04.10 12:44:45 INFO  [info] loading project definition from C:\Users\lupoh\Downloads\Repos\scalatest-example\project
+Apr 10, 2026 12:44:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.10 12:44:52 INFO  [success] Generated .bloop\scalatest-example-build.json
+2026.04.10 12:44:52 INFO  [success] Total time: 7 s, completed 10 Apr 2026, 12:44:52
+2026.04.10 12:44:55 INFO  [info] loading settings for project root from build.sbt...
+2026.04.10 12:44:55 INFO  [info] set current project to scalatest-example (in build file:/C:/Users/lupoh/Downloads/Repos/scalatest-example/)
+2026.04.10 12:44:56 INFO  [success] Generated .bloop\root.json
+2026.04.10 12:44:56 INFO  [success] Generated .bloop\root-test.json
+2026.04.10 12:44:56 INFO  [success] Total time: 1 s, completed 10 Apr 2026, 12:44:56
+2026.04.10 12:44:56 INFO  time: ran 'sbt bloopInstall' in 23s
+2026.04.10 12:44:56 INFO  Attempting to connect to the build server...
+2026.04.10 12:44:56 INFO  Found a Bloop server running
+2026.04.10 12:44:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lupoh\Downloads\Repos\scalatest-example\.metals\bsp.trace.json or C:\Users\lupoh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.04.10 12:44:56 INFO  Attempting to connect to the build server...
+2026.04.10 12:44:56 INFO  Found a Bloop server running
+2026.04.10 12:44:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lupoh\Downloads\Repos\scalatest-example\project\.metals\bsp.trace.json or C:\Users\lupoh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.04.10 12:44:57 INFO  time: Connected to build server in 0.5s
+2026.04.10 12:44:57 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.10 12:44:57 INFO  time: Imported build in 0.11s
+2026.04.10 12:45:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
